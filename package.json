@@ -1,0 +1,17 @@
+{
+  "name": "node-hm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://NataliyaKulibaba.github.io/Node-hm/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "yargs": "^17.5.0"
+  }
+}
